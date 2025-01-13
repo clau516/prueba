@@ -1,0 +1,223 @@
+ul{
+
+    background-color: #0F509C;
+    width: 100vw;  
+    height: 2.5vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin-top: 2px;
+    margin-bottom: 2px;
+    display:flex ;
+    justify-content: center;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    padding: 12px; 
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+}
+li:hover{
+    display: inline-block;
+    background-color: #b1b1b1; 
+    padding: 10px;
+    border-radius: 15px;
+}
+li:active{
+    display: inline-block;
+    background-color: #000000; 
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.cuadroazul{
+
+    background-color:#2692CF;
+    border-radius: 15px;
+    width: 50%;
+    height: 50vw;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h11{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-left: 10%;
+
+}
+.columnas{
+    border-radius: 15px; 
+    width: 25%; 
+    margin: 1.5%; 
+    padding: 1.5%;
+}
+.productos{
+    width: 20%; 
+    margin: 2%;
+    margin-top: 15px;
+}
+
+.fondonegro{
+    background-color: #60ace2;
+    height: 460px;
+    margin-top: 40px;
+}
+.primerapaginaultimafoto{
+    border-radius: 15px; 
+    width: 25%; 
+    height: 100%;
+    padding: 1.5%;
+    margin-bottom: 20px;
+}
+
+.textoblanco{
+    color: white;
+    font-size: 150%;
+    margin-top: 10px;
+}
+
+.oferta{
+width: 80%;
+display:flex ;
+justify-content: center;
+}
+
+
+.palabraproducto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-left: 12%;
+    margin-top: 50px;
+    color: #000000;
+}
+.h15{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-left: 18.5%;
+    margin-bottom: 0%;
+}
+.disneyplustarifa{
+    border-radius: 15px; 
+    width: 25%; 
+    margin: 1.5%; 
+    padding: 5px;
+    margin-top: 0.5%; 
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+.disneyplustarifatitulo{
+        margin-top: 15px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 150%;
+            margin-left: 11.5%;
+}
+
+.disneyplus{
+    border-radius: 15px; 
+    width: 30%; 
+    margin: 1.5%; 
+    padding: 0%;  
+        margin: 1.5%; 
+
+}
+.parquetematico{
+        margin-top: 15px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 150%;
+            margin-left: 11.5%;
+}
+
+.titulonovedades{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+    margin-left: 12%; 
+    margin-right: 20px;
+    
+ 
+}
+
+.novedadestexto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90%;
+    margin-left: 12.2%; 
+    margin-right: 12.2%;
+    margin-bottom: 30px;
+}
+
+.novedadimagen{
+    width: 100%;
+    height: 100%;
+    display:flex ;
+    justify-content: left;
+    margin-left: 12.2%; 
+    }
+
+    .novedadesazul{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 130%;
+        margin-left: 12%; 
+        margin-right: 20px;
+        color: #227fb4;
+    }
+
+
+/*2 PAGINA*/
+
+
+.titulofotonoticia{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-left: 12%;
+}
+
+.textonoticia{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 110%;
+    margin-left: 15%;
+}
+
+.textogaleria{
+    font-size: 120%;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0F509C;
+}
+
+.titulogaleria{
+margin-left: 80px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+margin-top: 30px;
+margin-bottom: -40px;
+}
+.titulonoticia{
+    margin-left: 470px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 200%;
+margin-top: 30px;
+}
+
+.tituloapartadogaleria{
+    margin-left: 170px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    margin-top: 30px;
+    margin-bottom: -40px;
+}
+
+.galeriaproductos{
+    width: 20%; 
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
